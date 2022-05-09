@@ -1,0 +1,12 @@
+[submodule "machines/metfs1"]
+	path = machines/metfs1
+	url = git@git.las.iastate.edu:akrherz/metfs1.git
+[submodule "machines/iem8-dc"]
+	path = machines/iem8-dc
+	url = git@git.las.iastate.edu:akrherz/iem8-dc.git
+[submodule "machines/iem9-dc"]
+	path = machines/iem9-dc
+	url = git@git.las.iastate.edu:akrherz/iem9-dc.git
+[submodule "machines/iem11-dc"]
+	path = machines/iem11-dc
+	url = git@git.las.iastate.edu:akrherz/iem11-dc.git
