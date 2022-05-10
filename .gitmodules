@@ -10,3 +10,63 @@
 [submodule "machines/iem11-dc"]
 	path = machines/iem11-dc
 	url = git@git.las.iastate.edu:akrherz/iem11-dc.git
+[submodule "machines/iem11"]
+	path = machines/iem11
+	url = git@git.las.iastate.edu:akrherz/iem11.git
+[submodule "machines/iem12"]
+	path = machines/iem12
+	url = git@git.las.iastate.edu:akrherz/iem12.git
+[submodule "machines/iem13"]
+	path = machines/iem13
+	url = git@git.las.iastate.edu:akrherz/iem13.git
+[submodule "machines/iem14"]
+	path = machines/iem14
+	url = git@git.las.iastate.edu:akrherz/iem14.git
+[submodule "machines/iem15"]
+	path = machines/iem15
+	url = git@git.las.iastate.edu:akrherz/iem15.git
+[submodule "machines/iem16"]
+	path = machines/iem16
+	url = git@git.las.iastate.edu:akrherz/iem16.git
+[submodule "machines/iem18"]
+	path = machines/iem18
+	url = git@git.las.iastate.edu:akrherz/iem18.git
+[submodule "machines/iem19"]
+	path = machines/iem19
+	url = git@git.las.iastate.edu:akrherz/iem19.git
+[submodule "machines/iemvs"]
+	path = machines/iemvs
+	url = git@git.las.iastate.edu:akrherz/iemvs.git
+[submodule "machines/iemvm"]
+	path = machines/iemvm
+	url = git@git.las.iastate.edu:akrherz/iemvm.git
+[submodule "machines/metvm0"]
+	path = machines/metvm0
+	url = git@git.las.iastate.edu:akrherz/metvm0.git
+[submodule "machines/metvm1"]
+	path = machines/metvm1
+	url = git@git.las.iastate.edu:akrherz/metvm1.git
+[submodule "machines/metvm2"]
+	path = machines/metvm2
+	url = git@git.las.iastate.edu:akrherz/metvm2.git
+[submodule "machines/metvm3"]
+	path = machines/metvm3
+	url = git@git.las.iastate.edu:akrherz/metvm3.git
+[submodule "machines/metvm4"]
+	path = machines/metvm4
+	url = git@git.las.iastate.edu:akrherz/metvm4.git
+[submodule "machines/metvm5"]
+	path = machines/metvm5
+	url = git@git.las.iastate.edu:akrherz/metvm5.git
+[submodule "machines/metvm6"]
+	path = machines/metvm6
+	url = git@git.las.iastate.edu:akrherz/metvm6.git
+[submodule "machines/metvm7"]
+	path = machines/metvm7
+	url = git@git.las.iastate.edu:akrherz/metvm7.git
+[submodule "machines/metvm8"]
+	path = machines/metvm8
+	url = git@git.las.iastate.edu:akrherz/metvm8.git
+[submodule "machines/metvm9"]
+	path = machines/metvm9
+	url = git@git.las.iastate.edu:akrherz/metvm9.git
