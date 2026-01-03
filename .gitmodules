@@ -175,3 +175,6 @@
 [submodule "machines/metvm2-dc"]
 	path = machines/metvm2-dc
 	url = git@git.las.iastate.edu:akrherz/metvm2-dc.git
+[submodule "machines/iemvm13"]
+	path = machines/iemvm13
+	url = git@git.las.iastate.edu:akrherz/iemvm13.git
