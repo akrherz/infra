@@ -184,3 +184,12 @@
 [submodule "machines/www.schoolnet8.com"]
 	path = machines/www.schoolnet8.com
 	url = git@github.com:akrherz/www.schoolnet8.com.git
+[submodule "machines/iemvm8"]
+	path = machines/iemvm8
+	url = git@git.las.iastate.edu:akrherz/iemvm8.git
+[submodule "machines/iemvm12"]
+	path = machines/iemvm12
+	url = git@git.las.iastate.edu:akrherz/iemvm12.git
+[submodule "machines/iemvm11"]
+	path = machines/iemvm11
+	url = git@git.las.iastate.edu:akrherz/iemvm11.git
