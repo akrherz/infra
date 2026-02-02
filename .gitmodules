@@ -165,7 +165,7 @@
 	url = git@git.las.iastate.edu:akrherz/weatherstation.git
 [submodule "machines/derecho-nas0"]
 	path = machines/metvm5-dc
-	url = git@git.las.iastate.edu:akrherz/derecho-nas0.git
+	url = git@github.com:akrherz/metvm5-dc.git
 [submodule "machines/iemvm0"]
 	path = machines/iemvm0
 	url = git@git.las.iastate.edu:akrherz/iemvm0.git
