@@ -33,7 +33,7 @@
 	url = git@git.las.iastate.edu:akrherz/iem19.git
 [submodule "machines/iemvs"]
 	path = machines/iemvs
-	url = git@git.las.iastate.edu:akrherz/iemvs.git
+	url = git@github.com:akrherz/iemvs.git
 [submodule "machines/iemvm"]
 	path = machines/iemvm
 	url = git@git.las.iastate.edu:akrherz/iemvm.git
@@ -108,7 +108,7 @@
 	url = git@git.las.iastate.edu:akrherz/iemvm2.git
 [submodule "machines/iemvm3"]
 	path = machines/iemvm3
-	url = git@git.las.iastate.edu:akrherz/iemvm3.git
+	url = git@github.com:akrherz/iemvm3.git
 [submodule "machines/iemvm4"]
 	path = machines/iemvm4
 	url = git@git.las.iastate.edu:akrherz/iemvm4.git
@@ -193,3 +193,6 @@
 [submodule "machines/iemvm11"]
 	path = machines/iemvm11
 	url = git@git.las.iastate.edu:akrherz/iemvm11.git
+[submodule "machines/metvm0-ah3029"]
+	path = machines/metvm0-ah3029
+	url = git@github.com:akrherz/metvm0-ah3029.git
