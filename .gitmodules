@@ -22,9 +22,6 @@
 [submodule "machines/iem15"]
 	path = machines/iem15
 	url = git@git.las.iastate.edu:akrherz/iem15.git
-[submodule "machines/iem16"]
-	path = machines/iem16
-	url = git@git.las.iastate.edu:akrherz/iem16.git
 [submodule "machines/iem18"]
 	path = machines/iem18
 	url = git@git.las.iastate.edu:akrherz/iem18.git
