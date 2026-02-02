@@ -90,10 +90,10 @@
 	url = git@git.las.iastate.edu:akrherz/derecho.git
 [submodule "machines/hadley"]
 	path = machines/hadley
-	url = git@git.las.iastate.edu:akrherz/hadley.git
+	url = git@github.com:akrherz/hadley.git
 [submodule "machines/idd-dc"]
 	path = machines/idd-dc
-	url = git@git.las.iastate.edu:akrherz/idd-dc.git
+	url = git@github.com:akrherz/idd-dc.git
 [submodule "machines/iem-director"]
 	path = machines/iem-director
 	url = git@git.las.iastate.edu:akrherz/iem-director.git
@@ -115,9 +115,6 @@
 [submodule "machines/iemvm6"]
 	path = machines/iemvm6
 	url = git@git.las.iastate.edu:akrherz/iemvm6.git
-[submodule "machines/iemvm7"]
-	path = machines/iemvm7
-	url = git@git.las.iastate.edu:akrherz/iemvm7.git
 [submodule "machines/level2-dc"]
 	path = machines/level2-dc
 	url = git@git.las.iastate.edu:akrherz/level2-dc.git
@@ -141,7 +138,7 @@
 	url = git@git.las.iastate.edu:akrherz/mtadmin.git
 [submodule "machines/mtarchive-ldm"]
 	path = machines/mtarchive-ldm
-	url = git@git.las.iastate.edu:akrherz/mtarchive-ldm.git
+	url = git@github.com:akrherz/mtarchive-ldm.git
 [submodule "machines/mtdesktop"]
 	path = machines/mtdesktop
 	url = git@git.las.iastate.edu:akrherz/mtdesktop.git
@@ -193,3 +190,9 @@
 [submodule "machines/metvm0-ah3029"]
 	path = machines/metvm0-ah3029
 	url = git@github.com:akrherz/metvm0-ah3029.git
+[submodule "machines/isu-biomass-server"]
+	path = machines/isu-biomass-server
+	url = git@github.com:akrherz/isu-biomass-server.git
+[submodule "machines/iem4-dc"]
+	path = machines/iem4-dc
+	url = git@github.com:akrherz/iem4-dc.git
