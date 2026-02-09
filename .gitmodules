@@ -84,7 +84,7 @@
 	url = git@github.com:akrherz/arritt.git
 [submodule "machines/chinook"]
 	path = machines/chinook
-	url = git@git.las.iastate.edu:akrherz/chinook.git
+	url = git@github.com:akrherz/chinook.git
 [submodule "machines/derecho"]
 	path = machines/derecho
 	url = git@git.las.iastate.edu:akrherz/derecho.git
