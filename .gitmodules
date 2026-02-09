@@ -120,13 +120,13 @@
 	url = git@github.com:akrherz/level2-dc.git
 [submodule "machines/metfs0"]
 	path = machines/metfs0
-	url = git@git.las.iastate.edu:akrherz/metfs0.git
+	url = git@github.com:akrherz/metfs0.git
 [submodule "machines/metl60"]
 	path = machines/akrherz-desktop
 	url = git@git.las.iastate.edu:akrherz/metl60.git
 [submodule "machines/metvm33-dc"]
 	path = machines/metvm33-dc
-	url = git@git.las.iastate.edu:akrherz/metvm33-dc.git
+	url = git@github.com:akrherz/metvm33-dc.git
 [submodule "machines/metvm4-dc"]
 	path = machines/metvm4-dc
 	url = git@git.las.iastate.edu:akrherz/metvm4-dc.git
