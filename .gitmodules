@@ -96,7 +96,7 @@
 	url = git@github.com:akrherz/idd-dc.git
 [submodule "machines/iem-director"]
 	path = machines/iem-director
-	url = git@git.las.iastate.edu:akrherz/iem-director.git
+	url = git@github.com:akrherz/iem-director.git
 [submodule "machines/iemvm1"]
 	path = machines/iemvm1
 	url = git@github.com:akrherz/iemvm1.git
@@ -199,3 +199,6 @@
 [submodule "machines/mesonet-ah"]
 	path = machines/mesonet-ah
 	url = git@github.com:akrherz/mesonet-ah.git
+[submodule "machines/mtremote"]
+	path = machines/mtremote
+	url = git@github.com:akrherz/mtremote.git
