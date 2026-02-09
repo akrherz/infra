@@ -3,19 +3,19 @@
 	url = git@git.las.iastate.edu:akrherz/metfs1.git
 [submodule "machines/iem8-dc"]
 	path = machines/iem8-dc
-	url = git@git.las.iastate.edu:akrherz/iem8-dc.git
+	url = git@github.com:akrherz/iem8-dc.git
 [submodule "machines/iem9-dc"]
 	path = machines/iem9-dc
 	url = git@git.las.iastate.edu:akrherz/iem9-dc.git
 [submodule "machines/iem11-dc"]
 	path = machines/iem11-dc
-	url = git@git.las.iastate.edu:akrherz/iem11-dc.git
+	url = git@github.com:akrherz/iem11-dc.git
 [submodule "machines/iem11"]
 	path = machines/iem11
 	url = git@git.las.iastate.edu:akrherz/iem11.git
 [submodule "machines/iem12"]
 	path = machines/iem12
-	url = git@git.las.iastate.edu:akrherz/iem12.git
+	url = git@github.com:akrherz/iem12.git
 [submodule "machines/iem14"]
 	path = machines/iem14
 	url = git@git.las.iastate.edu:akrherz/iem14.git
@@ -72,7 +72,7 @@
 	url = git@git.las.iastate.edu:akrherz/minneapolis.git
 [submodule "machines/iem27-dc"]
 	path = machines/iem27-dc
-	url = git@git.las.iastate.edu:akrherz/iem27-dc.git
+	url = git@github.com:akrherz/iem27-dc.git
 [submodule "machines/akrherz-laptop"]
 	path = machines/akrherz-laptop
 	url = git@git.las.iastate.edu:akrherz/akrherz-laptop.git
@@ -81,7 +81,7 @@
 	url = git@git.las.iastate.edu:akrherz/anticyclone.git
 [submodule "machines/arritt"]
 	path = machines/arritt
-	url = git@git.las.iastate.edu:akrherz/arritt.git
+	url = git@github.com:akrherz/arritt.git
 [submodule "machines/chinook"]
 	path = machines/chinook
 	url = git@git.las.iastate.edu:akrherz/chinook.git
@@ -99,10 +99,10 @@
 	url = git@git.las.iastate.edu:akrherz/iem-director.git
 [submodule "machines/iemvm1"]
 	path = machines/iemvm1
-	url = git@git.las.iastate.edu:akrherz/iemvm1.git
+	url = git@github.com:akrherz/iemvm1.git
 [submodule "machines/iemvm2"]
 	path = machines/iemvm2
-	url = git@git.las.iastate.edu:akrherz/iemvm2.git
+	url = git@github.com:akrherz/iemvm2.git
 [submodule "machines/iemvm3"]
 	path = machines/iemvm3
 	url = git@github.com:akrherz/iemvm3.git
@@ -117,7 +117,7 @@
 	url = git@git.las.iastate.edu:akrherz/iemvm6.git
 [submodule "machines/level2-dc"]
 	path = machines/level2-dc
-	url = git@git.las.iastate.edu:akrherz/level2-dc.git
+	url = git@github.com:akrherz/level2-dc.git
 [submodule "machines/metfs0"]
 	path = machines/metfs0
 	url = git@git.las.iastate.edu:akrherz/metfs0.git
@@ -141,10 +141,10 @@
 	url = git@github.com:akrherz/mtarchive-ldm.git
 [submodule "machines/mtdesktop"]
 	path = machines/mtdesktop
-	url = git@git.las.iastate.edu:akrherz/mtdesktop.git
+	url = git@github.com:akrherz/mtdesktop.git
 [submodule "machines/nagios"]
 	path = machines/nagios
-	url = git@git.las.iastate.edu:akrherz/nagios.git
+	url = git@github.com:akrherz/nagios-etc.git
 [submodule "machines/nagios-conf"]
 	path = machines/nagios-conf
 	url = git@git.las.iastate.edu:akrherz/nagios-conf.git
@@ -168,7 +168,7 @@
 	url = git@git.las.iastate.edu:akrherz/metvm0-dc.git
 [submodule "machines/metvm2-dc"]
 	path = machines/metvm2-dc
-	url = git@git.las.iastate.edu:akrherz/metvm2-dc.git
+	url = git@github.com:akrherz/metvm2-dc.git
 [submodule "machines/iemvm13"]
 	path = machines/iemvm13
 	url = git@git.las.iastate.edu:akrherz/iemvm13.git
@@ -180,13 +180,13 @@
 	url = git@github.com:akrherz/www.schoolnet8.com.git
 [submodule "machines/iemvm8"]
 	path = machines/iemvm8
-	url = git@git.las.iastate.edu:akrherz/iemvm8.git
+	url = git@github.com:akrherz/iemvm8.git
 [submodule "machines/iemvm12"]
 	path = machines/iemvm12
 	url = git@git.las.iastate.edu:akrherz/iemvm12.git
 [submodule "machines/iemvm11"]
 	path = machines/iemvm11
-	url = git@git.las.iastate.edu:akrherz/iemvm11.git
+	url = git@github.com:akrherz/iemvm11.git
 [submodule "machines/metvm0-ah3029"]
 	path = machines/metvm0-ah3029
 	url = git@github.com:akrherz/metvm0-ah3029.git
