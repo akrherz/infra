@@ -1,12 +1,12 @@
 [submodule "machines/metfs1"]
 	path = machines/metfs1
-	url = git@git.las.iastate.edu:akrherz/metfs1.git
+	url = git@github.com:akrherz/metfs1.git
 [submodule "machines/iem8-dc"]
 	path = machines/iem8-dc
 	url = git@github.com:akrherz/iem8-dc.git
 [submodule "machines/iem9-dc"]
 	path = machines/iem9-dc
-	url = git@git.las.iastate.edu:akrherz/iem9-dc.git
+	url = git@github.com:akrherz/iem9-dc.git
 [submodule "machines/iem11-dc"]
 	path = machines/iem11-dc
 	url = git@github.com:akrherz/iem11-dc.git
@@ -66,10 +66,10 @@
 	url = git@git.las.iastate.edu:akrherz/metvm9.git
 [submodule "machines/stpaul"]
 	path = machines/stpaul
-	url = git@git.las.iastate.edu:akrherz/stpaul.git
+	url = git@github.com:akrherz/stpaul.git
 [submodule "machines/minneapolis"]
 	path = machines/minneapolis
-	url = git@git.las.iastate.edu:akrherz/minneapolis.git
+	url = git@github.com:akrherz/minneapolis.git
 [submodule "machines/iem27-dc"]
 	path = machines/iem27-dc
 	url = git@github.com:akrherz/iem27-dc.git
@@ -78,7 +78,7 @@
 	url = git@github.com:akrherz/akrherz-laptop.git
 [submodule "machines/anticyclone"]
 	path = machines/anticyclone
-	url = git@git.las.iastate.edu:akrherz/anticyclone.git
+	url = git@github.com:akrherz/anticyclone.git
 [submodule "machines/arritt"]
 	path = machines/arritt
 	url = git@github.com:akrherz/arritt.git
@@ -114,7 +114,7 @@
 	url = git@git.las.iastate.edu:akrherz/iemvm5.git
 [submodule "machines/iemvm6"]
 	path = machines/iemvm6
-	url = git@git.las.iastate.edu:akrherz/iemvm6.git
+	url = git@github.com:akrherz/iemvm6.git
 [submodule "machines/level2-dc"]
 	path = machines/level2-dc
 	url = git@github.com:akrherz/level2-dc.git
@@ -123,7 +123,7 @@
 	url = git@github.com:akrherz/metfs0.git
 [submodule "machines/metl60"]
 	path = machines/akrherz-desktop
-	url = git@git.las.iastate.edu:akrherz/metl60.git
+	url = git@github.com:akrherz/akrherz-desktop.git
 [submodule "machines/metvm33-dc"]
 	path = machines/metvm33-dc
 	url = git@github.com:akrherz/metvm33-dc.git
@@ -153,16 +153,16 @@
 	url = git@git.las.iastate.edu:akrherz/thumper-ah.git
 [submodule "machines/updraft"]
 	path = machines/updraft
-	url = git@git.las.iastate.edu:akrherz/updraft.git
+	url = git@github.com:akrherz/updraft.git
 [submodule "machines/weatherstation"]
 	path = machines/weatherstation
-	url = git@git.las.iastate.edu:akrherz/weatherstation.git
+	url = git@github.com:akrherz/weatherstation-etc.git
 [submodule "machines/derecho-nas0"]
 	path = machines/metvm5-dc
 	url = git@github.com:akrherz/metvm5-dc.git
 [submodule "machines/iemvm0"]
 	path = machines/iemvm0
-	url = git@git.las.iastate.edu:akrherz/iemvm0.git
+	url = git@github.com:akrherz/iemvm0.git
 [submodule "machines/metvm0-dc"]
 	path = machines/metvm0-dc
 	url = git@git.las.iastate.edu:akrherz/metvm0-dc.git
