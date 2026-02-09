@@ -75,7 +75,7 @@
 	url = git@github.com:akrherz/iem27-dc.git
 [submodule "machines/akrherz-laptop"]
 	path = machines/akrherz-laptop
-	url = git@git.las.iastate.edu:akrherz/akrherz-laptop.git
+	url = git@github.com:akrherz/akrherz-laptop.git
 [submodule "machines/anticyclone"]
 	path = machines/anticyclone
 	url = git@git.las.iastate.edu:akrherz/anticyclone.git
@@ -196,3 +196,6 @@
 [submodule "machines/iem4-dc"]
 	path = machines/iem4-dc
 	url = git@github.com:akrherz/iem4-dc.git
+[submodule "machines/mesonet-ah"]
+	path = machines/mesonet-ah
+	url = git@github.com:akrherz/mesonet-ah.git
