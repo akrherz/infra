@@ -202,3 +202,9 @@
 [submodule "machines/mtremote"]
 	path = machines/mtremote
 	url = git@github.com:akrherz/mtremote.git
+[submodule "machines/iem16-dc"]
+	path = machines/iem16-dc
+	url = git@github.com:akrherz/iem16-dc.git
+[submodule "machines/iem18-dc"]
+	path = machines/iem18-dc
+	url = git@github.com:akrherz/iem18-dc.git
