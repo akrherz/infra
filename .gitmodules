@@ -208,3 +208,9 @@
 [submodule "machines/iem18-dc"]
 	path = machines/iem18-dc
 	url = git@github.com:akrherz/iem18-dc.git
+[submodule "machines/metvm32-dc"]
+	path = machines/metvm32-dc
+	url = git@github.com:akrherz/metvm32-dc.git
+[submodule "machines/iemhv0-ah"]
+	path = machines/iemhv0-ah
+	url = git@github.com:akrherz/iemhv0-ah.git
