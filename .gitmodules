@@ -214,3 +214,6 @@
 [submodule "machines/iemhv0-ah"]
 	path = machines/iemhv0-ah
 	url = git@github.com:akrherz/iemhv0-ah.git
+[submodule "machines/iemhv1-ah"]
+	path = machines/iemhv1-ah
+	url = git@github.com:akrherz/iemhv1-ah.git
