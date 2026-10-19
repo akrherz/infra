@@ -11,12 +11,12 @@ import sys
 from datetime import datetime, timedelta, timezone
 
 
-def magic(zvol, snap_to_make, snap_to_delete):
+def magic(zvol: str, snap_to_make: str, snap_to_delete: str) -> None:
     """East of the Rockies, Hello."""
     cmd = ["/usr/sbin/zfs", "snapshot", f"{zvol}@{snap_to_make}"]
     subprocess.run(cmd)
     cmd = ["/usr/sbin/zfs", "destroy", f"{zvol}@{snap_to_delete}"]
-    subprocess.Popen(cmd, stderr=subprocess.PIPE, stdout=subprocess.PIPE)
+    subprocess.run(cmd)
 
 
 def main(argv: list[str]):
@@ -37,7 +37,7 @@ def main(argv: list[str]):
             f"{(now - timedelta(days=7)):%Y%m%d}",
         )
     # Monthly, hacky
-    if now.day == 15 and now.hour == 0:
+    if now.day == 1 and now.hour == 0:
         magic(zvol, f"{now:%Y%m}", f"{(now - timedelta(days=183)):%Y%m}")
 
 
