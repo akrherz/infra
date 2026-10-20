@@ -10,12 +10,22 @@ import subprocess
 import sys
 from datetime import datetime, timedelta, timezone
 
+ZFS = "/usr/sbin/zfs"
+
 
 def magic(zvol: str, snap_to_make: str, snap_to_delete: str) -> None:
     """East of the Rockies, Hello."""
-    cmd = ["/usr/sbin/zfs", "snapshot", f"{zvol}@{snap_to_make}"]
+    cmd = [ZFS, "snapshot", f"{zvol}@{snap_to_make}"]
     subprocess.run(cmd)
-    cmd = ["/usr/sbin/zfs", "destroy", f"{zvol}@{snap_to_delete}"]
+
+    delname = f"{zvol}@{snap_to_delete}"
+    # Check if the snapshot exists prior to trying to delete it
+    result = subprocess.run(
+        [ZFS, "list", "-t", "snapshot", delname], capture_output=True
+    )
+    if result.returncode != 0:
+        return
+    cmd = [ZFS, "destroy", delname]
     subprocess.run(cmd)
 
 
